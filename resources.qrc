@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/SARFloodMapping" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
