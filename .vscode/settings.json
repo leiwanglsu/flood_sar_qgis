@@ -1,0 +1,13 @@
+{
+    "python.autoComplete.extraPaths": [
+        
+        "${env:QGISPYTHON}\\..\\qgis-ltr\\python",],
+    "python.defaultInterpreterPath": "${env:QGISPYTHON}\\python.exe",
+    "python.analysis.extraPaths": [
+        "${env:QGISPYTHON}\\..\\qgis-ltr\\python"
+    ],
+    "makefile.configureOnOpen": false,
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "C:\\Program Files\\QGIS 3.34.10\\apps\\qgis-ltr\\python"
+    },
+}
